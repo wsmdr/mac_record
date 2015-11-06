@@ -25,7 +25,7 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 安装完成后，重新打开终端就可以了
 
-
+## [zsh主题](http://zshthem.es/all/)
 
 我的.zshrc文件
 
@@ -48,4 +48,3 @@ alias c=clear
 alias rr="rm -rf"
 export PATH="/usr/local/sbin:$PATH"
 ```
-
