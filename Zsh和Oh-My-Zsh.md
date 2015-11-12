@@ -1,6 +1,6 @@
 # ZSH 和 Oh-My-Zsh
 
-![zsh shell](https://pic4.zhimg.com/b691b3fa0ffb6d6c90761a98d3afab1b_b.jpg)
+![zsh shell](http://wsmdr.github.io/mac_record/img/zsh.jpg)
 
 > 使用zsh
 > 
